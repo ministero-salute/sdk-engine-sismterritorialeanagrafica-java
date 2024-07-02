@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.mds.sdk.flusso.sism.territoriale.anag.parser.regole.conf;
 
 import it.mds.sdk.connettore.anagrafiche.conf.Configurazione;

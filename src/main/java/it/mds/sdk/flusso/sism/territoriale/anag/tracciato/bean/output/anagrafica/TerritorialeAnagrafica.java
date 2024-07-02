@@ -6,6 +6,8 @@
 //
 
 
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.mds.sdk.flusso.sism.territoriale.anag.tracciato.bean.output.anagrafica;
 
 import jakarta.xml.bind.annotation.*;
